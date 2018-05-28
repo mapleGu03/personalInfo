@@ -1,12 +1,46 @@
-## Welcome to GitHub Pages
+## 岁月的足迹
 
 You can use the [editor on GitHub](https://github.com/mapleGu03/personalInfo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 斯里兰卡
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2017年9月29日，一段新的旅程开始了...
+
+```markdown
+路线：
+
+# 尼甘布
+# 锡吉里耶
+# 亭可马里
+# 康提
+# 努沃勒埃利耶
+# 蒂瑟默哈拉默
+# 坦加勒
+# 加勒
+# 科伦坡
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### 柬埔寨
+
+2016年9月，第一次出国
+
+### 示例
+
+2017年9月29日，一段新的旅程开始了...
 
 ```markdown
 Syntax highlighted code block
@@ -27,10 +61,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapleGu03/personalInfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
