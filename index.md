@@ -9,31 +9,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2017年9月29日，一段新的旅程开始了...
 
 ```markdown
-路线：
+尼甘布：
 
-# 尼甘布
-# 锡吉里耶
-# 亭可马里
-# 康提
-# 努沃勒埃利耶
-# 蒂瑟默哈拉默
-# 坦加勒
-# 加勒
-# 科伦坡
+## 尼甘布
+## 锡吉里耶
+## 亭可马里
+## 康提
+## 努沃勒埃利耶
+## 蒂瑟默哈拉默
+## 坦加勒
+## 加勒
+## 科伦坡
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+锡吉里耶：
 
+## 尼甘布
+## 锡吉里耶
+## 亭可马里
+## 康提
+## 努沃勒埃利耶
+## 蒂瑟默哈拉默
+## 坦加勒
+## 加勒
+## 科伦坡
+
+```
 ### 柬埔寨
 
 2016年9月，第一次出国
