@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 2017年9月29日，一段新的旅程开始了...
 
+[Image](images/timg.jpg)
+
 ```markdown
 尼甘布：
 
