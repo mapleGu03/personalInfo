@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/mapleGu03/personalInfo/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 斯里兰卡
+### 斯里兰卡之行
 
 2017年9月29日，一段新的旅程开始了...
 
